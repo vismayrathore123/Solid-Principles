@@ -1,0 +1,7 @@
+C:\Users\system solution\source\repos\SolidPrinciplesInC#\LiskovSubstitutionPrinciple\bin\Debug\LiskovSubstitutionPrinciple.exe.config
+C:\Users\system solution\source\repos\SolidPrinciplesInC#\LiskovSubstitutionPrinciple\bin\Debug\LiskovSubstitutionPrinciple.exe
+C:\Users\system solution\source\repos\SolidPrinciplesInC#\LiskovSubstitutionPrinciple\bin\Debug\LiskovSubstitutionPrinciple.pdb
+C:\Users\system solution\source\repos\SolidPrinciplesInC#\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.csproj.AssemblyReference.cache
+C:\Users\system solution\source\repos\SolidPrinciplesInC#\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\system solution\source\repos\SolidPrinciplesInC#\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.exe
+C:\Users\system solution\source\repos\SolidPrinciplesInC#\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.pdb

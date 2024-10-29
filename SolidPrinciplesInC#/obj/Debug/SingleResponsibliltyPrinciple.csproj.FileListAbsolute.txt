@@ -1,0 +1,7 @@
+C:\Users\system solution\source\repos\SolidPrinciplesInC#\SolidPrinciplesInC#\bin\Debug\SolidPrinciplesInC#.exe.config
+C:\Users\system solution\source\repos\SolidPrinciplesInC#\SolidPrinciplesInC#\bin\Debug\SolidPrinciplesInC#.exe
+C:\Users\system solution\source\repos\SolidPrinciplesInC#\SolidPrinciplesInC#\bin\Debug\SolidPrinciplesInC#.pdb
+C:\Users\system solution\source\repos\SolidPrinciplesInC#\SolidPrinciplesInC#\obj\Debug\SingleResponsibliltyPrinciple.csproj.AssemblyReference.cache
+C:\Users\system solution\source\repos\SolidPrinciplesInC#\SolidPrinciplesInC#\obj\Debug\SingleResponsibliltyPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\system solution\source\repos\SolidPrinciplesInC#\SolidPrinciplesInC#\obj\Debug\SolidPrinciplesInC#.exe
+C:\Users\system solution\source\repos\SolidPrinciplesInC#\SolidPrinciplesInC#\obj\Debug\SolidPrinciplesInC#.pdb
