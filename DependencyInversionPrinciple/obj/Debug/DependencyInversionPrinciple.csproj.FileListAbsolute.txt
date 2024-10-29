@@ -1,0 +1,7 @@
+C:\Users\system solution\source\repos\SolidPrinciplesInC#\DependencyInversionPrinciple\bin\Debug\DependencyInversionPrinciple.exe.config
+C:\Users\system solution\source\repos\SolidPrinciplesInC#\DependencyInversionPrinciple\bin\Debug\DependencyInversionPrinciple.exe
+C:\Users\system solution\source\repos\SolidPrinciplesInC#\DependencyInversionPrinciple\bin\Debug\DependencyInversionPrinciple.pdb
+C:\Users\system solution\source\repos\SolidPrinciplesInC#\DependencyInversionPrinciple\obj\Debug\DependencyInversionPrinciple.csproj.AssemblyReference.cache
+C:\Users\system solution\source\repos\SolidPrinciplesInC#\DependencyInversionPrinciple\obj\Debug\DependencyInversionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\system solution\source\repos\SolidPrinciplesInC#\DependencyInversionPrinciple\obj\Debug\DependencyInversionPrinciple.exe
+C:\Users\system solution\source\repos\SolidPrinciplesInC#\DependencyInversionPrinciple\obj\Debug\DependencyInversionPrinciple.pdb

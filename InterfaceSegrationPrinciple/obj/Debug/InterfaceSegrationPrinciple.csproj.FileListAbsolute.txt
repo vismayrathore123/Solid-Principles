@@ -1,0 +1,7 @@
+C:\Users\system solution\source\repos\SolidPrinciplesInC#\InterfaceSegrationPrinciple\bin\Debug\InterfaceSegrationPrinciple.exe.config
+C:\Users\system solution\source\repos\SolidPrinciplesInC#\InterfaceSegrationPrinciple\bin\Debug\InterfaceSegrationPrinciple.exe
+C:\Users\system solution\source\repos\SolidPrinciplesInC#\InterfaceSegrationPrinciple\bin\Debug\InterfaceSegrationPrinciple.pdb
+C:\Users\system solution\source\repos\SolidPrinciplesInC#\InterfaceSegrationPrinciple\obj\Debug\InterfaceSegrationPrinciple.csproj.AssemblyReference.cache
+C:\Users\system solution\source\repos\SolidPrinciplesInC#\InterfaceSegrationPrinciple\obj\Debug\InterfaceSegrationPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\system solution\source\repos\SolidPrinciplesInC#\InterfaceSegrationPrinciple\obj\Debug\InterfaceSegrationPrinciple.exe
+C:\Users\system solution\source\repos\SolidPrinciplesInC#\InterfaceSegrationPrinciple\obj\Debug\InterfaceSegrationPrinciple.pdb
